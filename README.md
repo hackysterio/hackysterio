@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isu! <br/><a href="https://hackysterio.medium.com/">Writer</a>, <a href="https://www.linkedin.com/in/isu-momodu-a-4a6492225/">Cybersecurity Practitioner</a>, <a href="https://www.youtube.com/@hackysterio">YouTuber</a></h1>
+<h1>Hi, I'm Isu! <br/><a href="https://www.linkedin.com/in/isu-momodu-a-4a6492225/">Cybersecurity Practitioner</a></a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
