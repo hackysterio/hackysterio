@@ -2,9 +2,18 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Exploring the Intricacies of Online Security: My Adventures with Honeypots and SIEM](https://isu1.medium.com/exploring-the-intricacies-of-online-security-my-adventures-with-honeypots-and-siem-4c5e616beb63)
-
+- <b>Security Incident and Event Management (SIEM)</b>
+  - [SIEM - Azure Sentinel Map with Live Cyber Attacks](https://isu1.medium.com/exploring-the-intricacies-of-online-security-my-adventures-with-honeypots-and-siem-4c5e616beb63)
+- <b>Active Directory</b>
+  - [description](https://github.com/hackysterio)
+- <b>Vulnerability Management</b>
+  - [description](https://github.com/hackysterio)
+- <b>API Hacking</b>
+  - [description](https://github.com/hackysterio)
+  - [descripiton](https://github.com/hackysterio)
+  - [description](https://github.com/hackysterio)
+- <b>SSL/TLS</b>
+  - [description](https://github.com/hackysterio)
 <h2>📺 YouTube Videos</h2>
 
 - [Kali Linux | See Why It Is Popular Amongst Hackers](https://www.youtube.com/watch?v=NxkEy6h94sg)
