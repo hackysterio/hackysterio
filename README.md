@@ -7,7 +7,7 @@
 - <b>Active Directory</b>
   - [#](https://github.com/hackysterio)
 - <b>Vulnerability Management</b>
-  - [description](https://github.com/hackysterio)
+  - [#](https://github.com/hackysterio)
 - <b>API Hacking</b>
   - [Analyzing API Endpoints](https://hackysterio.medium.com/analyzing-api-endpoints-c6be5fff0608)
   - [#](https://github.com/hackysterio)
