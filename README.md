@@ -5,13 +5,13 @@
 - <b>Security Incident and Event Management (SIEM)</b>
   - [SIEM - Azure Sentinel Map with Live Cyber Attacks](https://isu1.medium.com/exploring-the-intricacies-of-online-security-my-adventures-with-honeypots-and-siem-4c5e616beb63)
 - <b>Active Directory</b>
-  - [description](https://github.com/hackysterio)
+  - [#](https://github.com/hackysterio)
 - <b>Vulnerability Management</b>
   - [description](https://github.com/hackysterio)
 - <b>API Hacking</b>
   - [Analyzing API Endpoints](https://hackysterio.medium.com/analyzing-api-endpoints-c6be5fff0608)
-  - [descripiton](https://github.com/hackysterio)
-  - [description](https://github.com/hackysterio)
+  - [#](https://github.com/hackysterio)
+  - [#](https://github.com/hackysterio)
 - <b>SSL/TLS</b>
   - [High Level Overview of the SSL/TLS process and Inspecting the contents of Google’s certificate](https://hackysterio.medium.com/high-level-overview-of-the-ssl-tls-process-and-inspecting-the-contents-of-googles-certificate-620e1a35f234)
 <h2>📺 YouTube Videos</h2>
