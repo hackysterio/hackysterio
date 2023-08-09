@@ -14,6 +14,7 @@
   - [#](https://github.com/hackysterio)
 - <b>SSL/TLS</b>
   - [High Level Overview of the SSL/TLS process and Inspecting the contents of Google’s certificate](https://hackysterio.medium.com/high-level-overview-of-the-ssl-tls-process-and-inspecting-the-contents-of-googles-certificate-620e1a35f234)
+  - [Matching Private Key Files with Certificate Files](https://hackysterio.medium.com/matching-certificate-files-private-key-files-e4947ea4b596)
 - <b>Linux</b>
   - [Linux Commands for Hackers - Zero to Mastery](https://github.com/hackysterio/Linux)
   - [Simple Bash script for beginners](https://github.com/hackysterio/if-ifElse)
