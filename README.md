@@ -22,6 +22,7 @@
 
 - [Kali Linux | See Why It Is Popular Amongst Hackers](https://www.youtube.com/watch?v=NxkEy6h94sg)
 - [Flipper Zero Hacking Demo](https://youtu.be/SWq_7eDHs8I)
+- [Cybersecurity Career Opportunities](https://youtu.be/xgukbvZs_mo)
 
 <h2> 🤳 Connect with me:</h2>
 
