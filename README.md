@@ -18,6 +18,8 @@
 - <b>Linux</b>
   - [Linux Commands for Hackers - Zero to Mastery](https://github.com/hackysterio/Linux)
   - [Simple Bash script for beginners](https://github.com/hackysterio/if-ifElse)
+- <b>OSINT</b>
+  - [OSINT Investigation Flowcharts](https://github.com/hackysterio/OSINT-Flowcharts-by-IntelTechniques)
 <h2>📺 YouTube Videos</h2>
 
 - [Kali Linux | See Why It Is Popular Amongst Hackers](https://www.youtube.com/watch?v=NxkEy6h94sg)
