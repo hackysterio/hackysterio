@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isu! <br/><a href="https://github.com/hackysterio">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/isu-momodu-a-4a6492225/">Cybersecurity Analyst</a>, <a href="https://hackysterio.medium.com/">Tech Tutor</a></h1>
+<h1>Hi, I'm Isu! <br/><a href="https://github.com/hackysterio">Hacker</a>, <a href="https://www.linkedin.com/in/isu-momodu-a-4a6492225/">Application Security Engineer</a>, <a href="https://hackysterio.medium.com/">Artificial Intelligence Researcher</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
